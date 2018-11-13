@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.box-container, .box {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-container {
+    width: 100%;
+}
+
+.box {
+    width: 50%;
+    height: 250px;
+    border: solid 1px blueviolet;
+}
+
+.logo-footer {
+    width: 5%;
+    height: 5%;
+}
