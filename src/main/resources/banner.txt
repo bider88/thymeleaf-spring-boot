@@ -1,0 +1,38 @@
+${Ansi.GREEN}  +.................-/+++////+++:-.................+
+${Ansi.GREEN}  /             `.:++:---.``.---:++:.`             /
+${Ansi.GREEN}  /        `-::/+-    .:::--::-.   `-+/::-         /
+${Ansi.GREEN}  /      .::``/- `-:+oo++oooo++oo/:.` -/``::.      /
+${Ansi.GREEN}  /    `/-  -o::+oooooooooooooooooooo+::o.  ::     /
+${Ansi.GREEN}  /   `/``:+:.:oooooooooooooooooooooooo:.:+-``/`   /
+${Ansi.GREEN}  /  `+-:-:::oooooooooooooooooooooooooooo:::-:-+   /
+${Ansi.GREEN}  /  :+- .oooooooooooooooooooooooooooooooooo` -+-  /
+${Ansi.GREEN}  / -o   +ooooooooooooooooooooooooo/..oooooo+  `o. /
+${Ansi.GREEN}  /-:+  +oooooooooooooooooooooo+/-`   +oooooo/  +:-/
+${Ansi.GREEN}  +/ + /+ooooooooooo:-.```````        :oooooo+/ + +/
+${Ansi.GREEN}  y. //.+ooooooooo-               `-  -oooooo/-+: -s
+${Ansi.GREEN}  h` -+ +oooooooo`              `:-   :oooooo+ o. `h
+${Ansi.GREEN}  y. /+.+ooooooo+             .//`    +oooooo/-+: -s
+${Ansi.GREEN}  +/ + /+oooooooo.      `.-:+o:`     /ooooooo+/ + ++
+${Ansi.GREEN}  /::+ `+ooooooo:/+/++ooo+/-.      -+oooooooo+  +:-/
+${Ansi.GREEN}  / -o   oooooo:`.oooo+///::::::/+oooooooooo+  `o- /
+${Ansi.GREEN}  /  :+. .oooooooooooooooooooooooooooooooooo. -o-  /
+${Ansi.GREEN}  /   +-:-/:/oooooooooooooooooooooooooooo:::-/-+   /
+${Ansi.GREEN}  /   `/``:+-`/oooooooooooooooooooooooo:.:+:``/`   /
+${Ansi.GREEN}  /    `/-  -o::ooooooooooooooooooooo+::o-  -/     /
+${Ansi.GREEN}  /      .:-``/.`.-:+oo+oooooo+oo+:-. -/``::.      /
+${Ansi.GREEN}  /        `-::/+-   `--::--::-.    -+/::-`        /
+${Ansi.GREEN}  /            `.-:++:---.``.---:++:..             /
+${Ansi.GREEN}  +.................-/++/////+++/-.................+
+
+${Ansi.MAGENTA}  __       __             ______                                           _______   __        __  __                     
+${Ansi.MAGENTA} /  \     /  |           /      \                                         /       \ /  |      /  |/  |                    
+${Ansi.MAGENTA} $$  \   /$$ | __    __ /$$$$$$  |  ______    ______                      $$$$$$$  |$$/   ____$$ |$$/   ______    ______  
+${Ansi.MAGENTA} $$$  \ /$$$ |/  |  /  |$$ |__$$ | /      \  /      \        ______       $$ |  $$ |/  | /    $$ |/  | /      \  /      \ 
+${Ansi.MAGENTA} $$$$  /$$$$ |$$ |  $$ |$$    $$ |/$$$$$$  |/$$$$$$  |      /      |      $$ |  $$ |$$ |/$$$$$$$ |$$ |/$$$$$$  |/$$$$$$  |
+${Ansi.MAGENTA} $$ $$ $$/$$ |$$ |  $$ |$$$$$$$$ |$$ |  $$ |$$ |  $$ |      $$$$$$/       $$ |  $$ |$$ |$$ |  $$ |$$ |$$    $$ |$$ |  $$/ 
+${Ansi.MAGENTA} $$ |$$$/ $$ |$$ \__$$ |$$ |  $$ |$$ |__$$ |$$ |__$$ |                    $$ |__$$ |$$ |$$ \__$$ |$$ |$$$$$$$$/ $$ |      
+${Ansi.MAGENTA} $$ | $/  $$ |$$    $$ |$$ |  $$ |$$    $$/ $$    $$/                     $$    $$/ $$ |$$    $$ |$$ |$$       |$$ |      
+${Ansi.MAGENTA} $$/      $$/  $$$$$$$ |$$/   $$/ $$$$$$$/  $$$$$$$/                      $$$$$$$/  $$/  $$$$$$$/ $$/  $$$$$$$/ $$/       
+${Ansi.MAGENTA}              /  \__$$ |          $$ |      $$ |                                                                          
+${Ansi.MAGENTA}              $$    $$/           $$ |      $$ |                                                                          
+${Ansi.MAGENTA}               $$$$$$/            $$/       $$/    
